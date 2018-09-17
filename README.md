@@ -5,12 +5,11 @@
 3. 建立並學會使用GitHub
    - [Tutorial](https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B)
    - [README.md Tutorial](http://xianbai.me/learn-md/article/about/readme.html)
+   - [Git command cheat sheet](https://github.com/joshnh/Git-Commands)
    
 4. 讀取91APP資料集
 ### Reference:
 - [GitHub](https://pecu.gitbooks.io/python_/content/)
 - [Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
-- [Git command cheat sheet](https://github.com/joshnh/Git-Commands)
-
 -----
 ## Week_2 :
