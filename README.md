@@ -9,7 +9,7 @@
    
 4. 讀取91APP資料集
 ### Reference:
-- [GitHub](https://pecu.gitbooks.io/python_/content/)
-- [Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+- 課程　[GitHub](https://pecu.gitbooks.io/python_/content/)
+- 課程　[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 -----
 ## Week_2 :
