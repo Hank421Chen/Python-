@@ -10,7 +10,10 @@ JUN-HAN, CHEN
    - [Git command cheat sheet](https://github.com/joshnh/Git-Commands)   
 4. Read 91APP dataset
 ### Homework:
-
+1. Use basic function of Pandas to know 91APP datas
+2. Slice and filter the datas
+3. Group the datas (groupby)
+4. Draw Pie chart of DiscountType
 
 ### Reference:
 - Course[GitHub](https://pecu.gitbooks.io/python_/content/)
