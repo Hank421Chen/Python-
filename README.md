@@ -15,7 +15,6 @@ JUN-HAN, CHEN
 2. Slice and filter the datas
 3. Group the datas (groupby)
 4. Draw Pie chart of DiscountType
-
 ### Reference:
 - Course[GitHub](https://pecu.gitbooks.io/python_/content/)
 - Course[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
