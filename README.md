@@ -19,6 +19,8 @@ JUN-HAN, CHEN
 ### Reference:
 - Course[GitHub](https://pecu.gitbooks.io/python_/content/)
 - Course[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+- [Python Cheat Sheet](https://pecu.gitbooks.io/python_/content/week1/4-python-basic-i.html)
+- [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 -----
 ## Week_2 :
 ### Course:
