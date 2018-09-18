@@ -16,10 +16,15 @@ JUN-HAN, CHEN
 3. Group the datas (groupby)
 4. Draw Pie chart of DiscountType
 
-![Pie Chart](https://github.com/Hank421Chen/STASD/blob/master/week_1/Pie_chart.JPG)
-
 ### Reference:
 - Course[GitHub](https://pecu.gitbooks.io/python_/content/)
 - Course[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 -----
 ## Week_2 :
+### Course:
+1. climate1_getStationInfo.ipynb 爬取氣象站資料 part1
+2. climate2_getClimate.ipynb 爬取氣象站資料 part2
+3. final.ipynb 交易資料訂單配送城市整理 part1
+4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
+5. Final_project.ipynb 整合 91APP 資料與氣象資料
+### Homework:
