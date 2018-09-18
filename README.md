@@ -16,6 +16,8 @@ JUN-HAN, CHEN
 3. Group the datas (groupby)
 4. Draw Pie chart of DiscountType
 
+![Pie Chart](https://github.com/Hank421Chen/STASD/blob/master/week_1/Pie_chart.JPG)
+
 ### Reference:
 - Course[GitHub](https://pecu.gitbooks.io/python_/content/)
 - Course[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
