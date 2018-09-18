@@ -1,4 +1,4 @@
-# 107-1_Python_Advanced Software Development
+# 107-1 Python Advanced Software Development
 JUN-HAN, CHEN
 ## Week_1 :
 ### Course:
