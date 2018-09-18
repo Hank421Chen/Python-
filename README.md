@@ -10,6 +10,7 @@ JUN-HAN, CHEN
    - [Git command cheat sheet](https://github.com/joshnh/Git-Commands)   
 4. Read 91APP dataset
 ### Homework:
+[week1_hw.ipynb](https://github.com/Hank421Chen/STASD/blob/master/week_1/week_1_first_meet.ipynb)
 1. Use basic function of Pandas to know 91APP datas
 2. Slice and filter the datas
 3. Group the datas (groupby)
