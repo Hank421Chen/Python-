@@ -1,4 +1,4 @@
-# 107-1_Python_Advanced Software Development
+# 107-1 Python Advanced Software Development
 JUN-HAN, CHEN
 ## Week_1 :
 ### Course:
@@ -23,9 +23,9 @@ JUN-HAN, CHEN
 -----
 ## Week_2 :
 ### Course:
-1. climate1_getStationInfo.ipynb 爬取氣象站資料 part1
-2. climate2_getClimate.ipynb 爬取氣象站資料 part2
-3. final.ipynb 交易資料訂單配送城市整理 part1
+1. climate1_getStationInfo.ipynb ( Use web crawler to get data of the weather station part1 )
+2. climate2_getClimate.ipynb ( Use web crawler to get data of the weather station part2 )
+3. final.ipynb (   part1
 4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
 5. Final_project.ipynb 整合 91APP 資料與氣象資料
 ### Homework:
