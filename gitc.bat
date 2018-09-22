@@ -1,3 +1,3 @@
-@echo off
+git add .
 git commit -am "apple"
 git push
