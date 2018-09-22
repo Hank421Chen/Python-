@@ -28,4 +28,4 @@ JUN-HAN, CHEN
 3. final.ipynb (   part1
 4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
 5. Final_project.ipynb 整合 91APP 資料與氣象資料
-### Homework:
+### [Homework](https://github.com/Hank421Chen/STASD/tree/master/week_2/Practice):
