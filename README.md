@@ -22,7 +22,7 @@ JUN-HAN, CHEN
 - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 -----
 ## Week_2 :
-### Course:
+### [Course](https://github.com/Hank421Chen/STASD/tree/master/week_2/Courses):
 1. climate1_getStationInfo.ipynb ( Use web crawler to get data of the weather station part1 )
 2. climate2_getClimate.ipynb ( Use web crawler to get data of the weather station part2 )
 3. final.ipynb (   part1
