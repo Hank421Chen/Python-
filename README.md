@@ -25,7 +25,7 @@ JUN-HAN, CHEN
 ### [Course](https://github.com/Hank421Chen/STASD/tree/master/week_2/Courses):
 1. climate1_getStationInfo.ipynb ( Use web crawler to get data of the weather station part1 )
 2. climate2_getClimate.ipynb ( Use web crawler to get data of the weather station part2 )
-3. final.ipynb (   part1
+3. final.ipynb 91APP 交易資料訂單配送城市整理 (六都) part
 4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
 5. Final_project.ipynb 整合 91APP 資料與氣象資料
 ### [Homework](https://github.com/Hank421Chen/STASD/tree/master/week_2/Practice):
