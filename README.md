@@ -37,3 +37,4 @@ JUN-HAN, CHEN
 ### Reference:
 - [NTU-CSX-Project/107-1PythonSampleCode](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 - [kevinkevin556/STASD/week 2/climate.py](https://github.com/kevinkevin556/STASD/blob/master/week%202/climate.py)
+- [用 Scikit 學習台灣指數趨勢](https://khanwhlee.blogspot.com/2016/08/machine-learning-practice-scikit_26.html)
