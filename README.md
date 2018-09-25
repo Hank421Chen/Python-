@@ -32,7 +32,7 @@ JUN-HAN, CHEN
 - 爬取氣象資料（降雨量、溫度）
 - 將爬取到的氣象資料，任意選擇一個地區，透過日期對應，合併出 91APP 消費金額與氣象的整合資料
 - 新資料欄位：SalesOrderSlaveDateTime、City、SalesOrderTotalPayment、【降雨量、溫度】
-- 爬取[台灣期貨交易所](https://www.taifex.com.tw/chinese/index.asp)中的每日台灣加權指數最高價、最低價、開盤價與交易量
+- 爬取[台灣期貨交易所](https://www.taifex.com.tw/chinese/index.asp)中的每日台灣加權指數最高價、最低價、開盤價與交易量並合併911APP資料以供未來探討股市漲跌與網購的相關性
 ### Reference:
 - [NTU-CSX-Project/107-1PythonSampleCode](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 - [kevinkevin556/STASD/week 2/climate.py](https://github.com/kevinkevin556/STASD/blob/master/week%202/climate.py)
