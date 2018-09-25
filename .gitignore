@@ -1,3 +1,5 @@
 *.csv
 .ipynb*/
 *.bat
+*.pickle
+__pycache__
