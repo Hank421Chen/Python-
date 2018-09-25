@@ -29,6 +29,7 @@ JUN-HAN, CHEN
 4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
 5. Final_project.ipynb 整合 91APP 資料與氣象資料
 ### [Homework](https://github.com/Hank421Chen/STASD/tree/master/week_2/Practice):
+[week2_hw.ipynb](https://github.com/Hank421Chen/STASD/tree/master/week_2/Practice)
 - 爬取氣象資料（降雨量、溫度）
 - 將爬取到的氣象資料，任意選擇一個地區，透過日期對應，合併出 91APP 消費金額與氣象的整合資料
 - 新資料欄位：SalesOrderSlaveDateTime、City、SalesOrderTotalPayment、【降雨量、溫度】
