@@ -1,8 +1,4 @@
 # 107-1 Python Advanced Software Development
-Introduction:
-
-The repository contains the in-class practice and the take-home project for the NTU course "Special Topics on Advanced Software Development " (STASD) in 107-1 semester. The dataset from 91App is used as the course material in order to form the sense of data analysis and the know-how for the New Retail. The basic skills for the data producing, mining, and wrangling such as web crawler, text mining, Apriori algorithm, machine learning and data visualization are introduced in the following lectures.
-
 - Author: 陳俊翰  JUN-HAN, CHEN
 - Teacher: Pecu Tsai
 - [Syllabus](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2005010&class=&dpt_code=H020&ser_no=12205&semester=107-1&lang=CH)
