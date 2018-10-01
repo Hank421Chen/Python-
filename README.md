@@ -42,8 +42,13 @@ JUN-HAN, CHEN
 ## Week_3 :
 ### Course:
 [week3_course](https://github.com/Hank421Chen/STASD/blob/master/week_3/week3_course.ipynb)
-畫出星期幾 vs 銷售量的 bar chart
+- 畫出星期幾 vs 銷售量的 bar chart
 ### Homework:
-
+[week3_hw](https://github.com/Hank421Chen/STASD/blob/master/week_3/week_3_hw.ipynb)
+- 利用消費均價與消費次數將客戶分成以下四類: 
+   - Class 1: 低消新客
+   - Class 2: 新客(消費能力可期)
+   - Class 3: 低消熟客
+   - Class 4: 高消熟客
 ----
 ## Week_4 :
