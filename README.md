@@ -1,5 +1,7 @@
 # 107-1 Python Advanced Software Development
-JUN-HAN, CHEN
+Author: 陳俊翰  JUN-HAN, CHEN
+課程[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+課程[GitHub](https://pecu.gitbooks.io/python_/content/)
 ## Week_1 :
 ### Course:
 1. Install [Anaconda](https://www.anaconda.com/download/)
