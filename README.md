@@ -1,8 +1,8 @@
 # 107-1 Python Advanced Software Development
 - Author: 陳俊翰  JUN-HAN, CHEN
 - [Syllabus](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2005010&class=&dpt_code=H020&ser_no=12205&semester=107-1&lang=CH)
-- 課程[Gitbook](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
-- 課程[GitHub](https://pecu.gitbooks.io/python_/content/)
+- 課程[Github](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+- 課程[GitBook](https://pecu.gitbooks.io/python_/content/)
 ## Week_1 :
 ### Course:
 1. Install [Anaconda](https://www.anaconda.com/download/)
