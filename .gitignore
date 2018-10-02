@@ -2,4 +2,5 @@
 .ipynb*/
 *.bat
 *.pickle
+*.xls
 __pycache__
