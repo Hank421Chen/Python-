@@ -56,4 +56,4 @@
 ## Week_4 :
 ### Course:
 [week4_course](https://github.com/Hank421Chen/STASD/blob/master/week_4/Week4_course.ipynb)
-
+[!P](https://github.com/Hank421Chen/STASD/blob/master/week_4/%E8%AA%AA%E6%98%8E.JPG)
