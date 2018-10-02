@@ -54,3 +54,6 @@
    - Class 4: 高消熟客
 -----
 ## Week_4 :
+### Course:
+[week4_course](https://github.com/Hank421Chen/STASD/blob/master/week_4/Week4_course.ipynb)
+
