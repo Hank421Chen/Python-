@@ -59,4 +59,6 @@
 - 完成會計財報文字[附註]詞頻統計
 - 將文字詞頻統計結果做成文字雲、長條圖
 ### Homework:
+文字雲: 
+
 ["Using Text Mining Technique for Financial Statement Disclosures" 論文報告]()
