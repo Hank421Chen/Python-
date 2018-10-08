@@ -62,11 +62,11 @@
 文字雲: 
 
 <img src="https://github.com/Hank421Chen/STASD/blob/master/week_4/wordcloud.JPG" alt="wordcloud"
-	title="Word cloud" width="150" height="100" />
+	title="Word cloud" width="300" height="200" />
    
 長條圖:
 
 <img src="https://github.com/Hank421Chen/STASD/blob/master/week_4/bar%20chart.JPG" alt="wordcloud"
-	title="Word cloud" width="150" height="100" />
+	title="Word cloud" width="300" height="200" />
    
 ["Using Text Mining Technique for Financial Statement Disclosures" 論文報告]()
