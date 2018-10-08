@@ -56,4 +56,7 @@
 ## Week_4 :
 ### Course:
 [week4_course](https://github.com/Hank421Chen/STASD/blob/master/week_4/Week4_course.ipynb)
-![P](https://github.com/Hank421Chen/STASD/blob/master/week_4/%E8%AA%AA%E6%98%8E.JPG)
+- 完成會計財報文字[附註]詞頻統計
+- 將文字詞頻統計結果做成文字雲、長條圖
+### Homework:
+["Using Text Mining Technique for Financial Statement Disclosures" 論文報告]()
