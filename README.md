@@ -60,5 +60,5 @@
 - 將文字詞頻統計結果做成文字雲、長條圖
 ### Homework:
 文字雲: 
-
+![](./wordcloud.jpg)
 ["Using Text Mining Technique for Financial Statement Disclosures" 論文報告]()
