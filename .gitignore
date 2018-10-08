@@ -3,4 +3,5 @@
 *.bat
 *.pickle
 *.xls
+*.txt
 __pycache__
