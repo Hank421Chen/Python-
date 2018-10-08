@@ -4,4 +4,6 @@
 *.pickle
 *.xls
 *.txt
+*.jpg
+*.png
 __pycache__
