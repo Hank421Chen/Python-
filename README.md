@@ -69,4 +69,4 @@
 <img src="https://github.com/Hank421Chen/STASD/blob/master/week_4/bar%20chart.JPG" alt="wordcloud"
 	title="Word cloud" width="300" height="200" />
    
-["Using Text Mining Technique for Financial Statement Disclosures" 論文報告](https://docs.google.com/presentation/d/18OXHvIu1DQ_mCtvb6lJmdz2JKhPadF-LEPamgDCp-KI/edit#slide=id.g43351e5cd2_0_274)
+["Using Text Mining Technique for Financial Statement Disclosures" 論文報告](https://github.com/Hank421Chen/STASD/blob/master/week_4/%E8%AB%96%E6%96%87%E5%A0%B1%E5%91%8A.pdf)
