@@ -72,7 +72,7 @@
 ["Using Text Mining Technique for Financial Statement Disclosures" 論文報告](https://github.com/Hank421Chen/STASD/blob/master/week_4/%E8%AB%96%E6%96%87%E5%A0%B1%E5%91%8A.pdf)
 -----
 ## Week_5 :
-### [week_5](https://github.com/Hank421Chen/STASD/blob/master/week_5/week_5.ipynb)
+### [實作結果](https://github.com/Hank421Chen/STASD/blob/master/week_5/week_5.ipynb)
 ##### 主題: 分析國巨2018股價走勢
 本周進度:
 - 搜尋特定時間點的國巨新聞
