@@ -74,7 +74,7 @@
 ## Week_5 :
 ### [實作結果](https://github.com/Hank421Chen/STASD/blob/master/week_5/week_5.ipynb)
 ##### 主題: 分析國巨2018股價走勢
-<img src="https://github.com/Hank421Chen/STASD/blob/master/week_4/bar%20chart.JPG" alt="wordcloud"
+<img src="https://github.com/Hank421Chen/STASD/blob/master/week_5/%E5%9C%8B%E5%B7%A8%E8%82%A1%E5%83%B9.JPG" alt="wordcloud"
 	title="Word cloud" width="300" height="200" />
 本周進度:
 - 搜尋特定時間點的國巨新聞
