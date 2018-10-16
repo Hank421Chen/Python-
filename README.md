@@ -70,3 +70,11 @@
 	title="Word cloud" width="300" height="200" />
    
 ["Using Text Mining Technique for Financial Statement Disclosures" 論文報告](https://github.com/Hank421Chen/STASD/blob/master/week_4/%E8%AB%96%E6%96%87%E5%A0%B1%E5%91%8A.pdf)
+-----
+##Week_5 :
+###[week_5]()
+#####主題: 分析國巨2018股價走勢
+本周進度:
+- 搜尋特定時間點的國巨新聞
+- 利用多個國巨新聞製作詞頻矩陣並視覺化呈現
+- 簡單說明觀察到的現象
