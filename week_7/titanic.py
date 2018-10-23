@@ -12,16 +12,15 @@ import numpy as np
 # Load the data
 train_df = pd.read_csv('titanicTrain.csv', header=0)
 test_df = pd.read_csv('titanicQuestion.csv', header=0)
+train_df=train_df[:999]
 #inputing the values on Age Na's
 test_df.loc[train_df.age.isnull(), 'age'] = test_df.groupby(['sex','pclass']).age.transform('median')
-
+col=train_df.columns
+for i in col:
+    print(i)
+    print(train_df[col].isnull().sum())
 train_df.loc[train_df.age.isnull(), 'age'] = train_df.groupby(['sex','pclass']).age.transform('median')
-train_df=train_df[:999]
-print(train_df["age"].isnull().sum())
-print(train_df["pclass"].isnull().sum())
-print(train_df["sex"].isnull().sum())
-print(train_df["fare"].isnull().sum())
-print(train_df["parch"].isnull().sum())
+
 
 # We'll impute missing values using the median for numeric columns and the most
 # common value for string columns.
@@ -36,7 +35,7 @@ class DataFrameImputer(TransformerMixin):
     def transform(self, X, y=None):
         return X.fillna(self.fill)
 
-feature_columns_to_use = ['pclass','sex','age','fare','parch']
+feature_columns_to_use = ['pclass','sex','age','sibsp','fare','parch']
 nonnumeric_columns = ['sex']
 
 # Join the features from train and test together before imputing missing values,
