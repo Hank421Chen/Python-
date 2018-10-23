@@ -56,7 +56,15 @@ for feature in nonnumeric_columns:
 train_X = big_X_imputed[0:train_df.shape[0]].as_matrix()
 test_X = big_X_imputed[train_df.shape[0]::].as_matrix()
 train_y = train_df['survived']
-
+gbm1 = xgb.XGBClassifier(max_depth=3, n_estimators=300, learning_rate=0.05).fit(train_X, train_y)
+pre = gbm1.predict(train_X)
+pre=pre.astype(int)
+right=0
+for i in range(len(train_y)):
+    if(train_y[i] == pre[i]):
+        right+=1
+print("train accuracy: ")
+print(right/len(train_y))
 # You can experiment with many other options here, using the same .fit() and .predict()
 # methods; see http://scikit-learn.org
 # This example uses the current build of XGBoost, from https://github.com/dmlc/xgboost
