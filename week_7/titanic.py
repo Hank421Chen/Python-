@@ -21,7 +21,9 @@ for i in col:
     print(train_df[col].isnull().sum())
 train_df.loc[train_df.age.isnull(), 'age'] = train_df.groupby(['sex','pclass']).age.transform('median')
 
-
+a = train_df[train_df['survived'] == 1]
+b = train_df[train_df['boat'].notnull()]
+b = b[[b['survived'] == 0]]
 # We'll impute missing values using the median for numeric columns and the most
 # common value for string columns.
 # This is based on some nice code by 'sveitser' at http://stackoverflow.com/a/25562948
