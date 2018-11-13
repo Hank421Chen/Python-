@@ -83,5 +83,6 @@
 - 簡單說明觀察到的現象
 ------
 ## Week_6 :
+### 主題: 探討國巨何時該進場和何時該預警退場
 ### [實作結果](https://github.com/Hank421Chen/STASD/blob/master/week_6/week6.ipynb)
 ### [投影片](https://docs.google.com/presentation/d/1JzOSOQ7gVuSmVSp9_sodjELoMDGxNOK7frWvWIzuEp8/edit?fbclid=IwAR11MyKQlftDcGjwsCWZSParanabLF79Hv5Nc4XAl80zFteeMSlOCCVfzEA#slide=id.g43351e5cd2_10_36)
