@@ -9,11 +9,9 @@
 1. Install Anaconda, Execute Jupyter Notebook, Create and Use GitHub  
 2. Read 91APP dataset
 3. Use basic function of Pandas to know 91APP datas, Slice and filter the datas, Group the datas , Draw Pie chart of DiscountType
+
 [week1_hw.ipynb](https://github.com/Hank421Chen/STASD/blob/master/week_1/week_1_first_meet.ipynb)
 
-#### Reference:
-- [Python Cheat Sheet](https://pecu.gitbooks.io/python_/content/week1/4-python-basic-i.html)
-- [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 -----
 ### Week_2 :
 #### [Course](https://github.com/Hank421Chen/STASD/tree/master/week_2/Courses):
